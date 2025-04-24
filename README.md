@@ -37,7 +37,19 @@ Use John the Ripper to crack the hashes:
   ```
 
 ## OUTPUT:
-Cracked Passwords from Hash File
+### Create a Password-Protected ZIP File
+![image](https://github.com/user-attachments/assets/cdbdd837-d63b-4d00-97d8-91d1e0999dae)
+
+### Extract the Hash from the ZIP File
+![image](https://github.com/user-attachments/assets/224bf1b0-dd76-4cd1-ad93-9f2191f62607)
+
+![image](https://github.com/user-attachments/assets/bf52a9ec-8059-44d2-93bc-35b8a8139ef9)
+
+### Crack the ZIP Password using John
+![image](https://github.com/user-attachments/assets/c2b43881-5852-4e6a-b576-7f4761e1df56)
+
+### Show the Cracked Password
+![image](https://github.com/user-attachments/assets/06b0bc3b-0aa7-4c47-9487-7b4be189a125)
 
 ## RESULT:
 The password hashes were successfully cracked using John the Ripper.
